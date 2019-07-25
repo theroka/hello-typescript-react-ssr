@@ -1,4 +1,4 @@
-# hello-typescript-react-redux
+# hello-typescript-react-ssr
 
 To install dependencies
 ```
